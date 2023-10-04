@@ -1,0 +1,544 @@
+,data_types,hubmap_id,origin_samples_unique_mapped_organs,uuid
+0,['salmon_rnaseq_snareseq'],HBM244.WRXM.247,['Kidney (Right)'],5d59784e70a74d4f44c729afff22668c
+1,['salmon_rnaseq_snareseq'],HBM436.XFFT.833,['Kidney (Right)'],a95f2c79bb637141f7e6874eddc8e274
+2,['salmon_rnaseq_snareseq'],HBM688.RPFC.258,['Kidney (Right)'],0804a7a9e430e6adfbc56f339d787211
+3,['salmon_sn_rnaseq_10x'],HBM593.JLCT.283,['Small Intestine'],3de525fe3e5718f297e8d62e037a042d
+4,['salmon_sn_rnaseq_10x'],HBM344.QRJX.878,['Kidney (Left)'],853ab5348f619043ab2f997ac8ae14f0
+5,['salmon_sn_rnaseq_10x'],HBM847.HMFW.947,['Large Intestine'],71719ade6924098f772d4063541a50f3
+6,['salmon_rnaseq_sciseq'],HBM888.CHTX.783,['Heart'],9e91d1be412466551533cce5594450cb
+7,['salmon_sn_rnaseq_10x'],HBM485.VKSZ.779,['Kidney (Right)'],fb94e862fe33f171de6e07d2d207d0de
+8,['salmon_sn_rnaseq_10x'],HBM988.XDFD.773,['Kidney (Right)'],aaedb5272190e61bf557d3b0a1bc591f
+9,['salmon_sn_rnaseq_10x'],HBM268.RGJT.587,['Kidney (Left)'],c05a38c5210b870281b5aea01e290339
+10,['salmon_sn_rnaseq_10x'],HBM465.STNV.844,['Kidney (Left)'],6cd63d0ee2c67c3be41e4be1522d9c07
+11,['salmon_rnaseq_snareseq'],HBM545.NTKZ.536,['Kidney (Left)'],d1e9f509063984326570cf603c5654f2
+12,['salmon_sn_rnaseq_10x'],HBM578.BDBP.672,['Lung (Right)'],237b8f24c23821690519af862cf25a9f
+13,['salmon_rnaseq_snareseq'],HBM948.GXMD.986,['Lung (Right)'],dd648e4648238b25a7d1062669ea89af
+14,['salmon_rnaseq_snareseq'],HBM658.FRMV.224,['Lung (Right)'],23a62a81daa7b6871b4422826d58ce1b
+15,['salmon_rnaseq_snareseq'],HBM475.FWNZ.942,['Lung (Right)'],f7a8e78dea9cf70735059e8b4a179701
+16,['salmon_sn_rnaseq_10x'],HBM673.GSSW.364,['Lung (Right)'],3febd011f193673c6f87a60718dd8f96
+17,['salmon_sn_rnaseq_10x'],HBM749.MTJC.865,['Lung (Right)'],5d111a1db2f18d507d23e79b993e1e4a
+18,['salmon_sn_rnaseq_10x'],HBM223.JQLM.452,['Lung (Right)'],faa1acc13943ee9d365b6cc6a3ea889f
+19,['salmon_rnaseq_snareseq'],HBM395.WSDD.355,['Lung (Right)'],293d9f9a1a076c616ed91d7251ec831c
+20,['salmon_rnaseq_10x'],HBM947.MQZT.787,['Liver'],f7afbf7de3dc1367582eebb27ae130b7
+21,['salmon_sn_rnaseq_10x'],HBM388.SGMJ.342,['Kidney (Left)'],5bc39f0a0deb7632f5cb9650d5e7067c
+22,['salmon_sn_rnaseq_10x'],HBM425.GDJT.648,['Kidney (Left)'],37988db44acc8d0780e4e31cd057e789
+23,['salmon_sn_rnaseq_10x'],HBM933.JFFT.692,['Kidney (Right)'],e010f7505632d7b6eeda25b349383149
+24,['salmon_rnaseq_snareseq'],HBM573.JGLL.575,['Kidney (Right)'],f3a05f31c6ea4e2315bc66ff468a5a0a
+25,['salmon_rnaseq_snareseq'],HBM747.TCHW.829,['Kidney (Right)'],bbcad31a55b1710dd5f889be8f63b62b
+26,['salmon_rnaseq_snareseq'],HBM234.VNGB.747,['Kidney (Left)'],eb961e5dc50239d35f5398903c64e2b9
+27,['salmon_rnaseq_snareseq'],HBM974.RQNL.845,['Kidney (Right)'],a69367866979f878635b2b665a6a7e0c
+28,['salmon_rnaseq_snareseq'],HBM449.QGGL.994,['Kidney (Left)'],9b99c75de2347b9567e33065108488e8
+29,['salmon_sn_rnaseq_10x'],HBM745.FJML.722,['Kidney (Left)'],fbfdd102ecd60d7cf9d3da8c3d83a5c4
+30,['salmon_sn_rnaseq_10x'],HBM349.QCWZ.339,['Kidney (Right)'],3bb5f743b039cb620d7ef234e0876f7a
+31,['salmon_sn_rnaseq_10x'],HBM744.FNLN.846,['Lung (Right)'],9aed52d22e30b893045fd1f79b3663fb
+32,['salmon_rnaseq_sciseq'],HBM276.ZCGM.239,['Heart'],26e1f2991c6f67fa10e9670f1bc0da6a
+33,['salmon_rnaseq_sciseq'],HBM852.VXGN.375,['Heart'],7d70a4deb9e2f0592f0c56e20ca91169
+34,['salmon_sn_rnaseq_10x'],HBM799.KLCD.699,['Lung (Right)'],5ee0b172de3ea493e0da2e7f743b3631
+35,['salmon_sn_rnaseq_10x'],HBM873.RLLF.745,['Lung (Right)'],2ea554a5a203a6c468431e652823ca1e
+36,['salmon_sn_rnaseq_10x'],HBM253.GTLF.654,['Lung (Right)'],e10f4899d35a9f39a2963fe9586b5fa4
+37,['salmon_sn_rnaseq_10x'],HBM747.GRNL.493,['Lung (Left)'],93b26f289133669d892d8d8704685899
+38,['salmon_sn_rnaseq_10x'],HBM473.MBSD.344,['Lung (Right)'],a483dd481580fd0dfc3e5aa00426ab58
+39,['salmon_sn_rnaseq_10x'],HBM964.XFCD.228,['Lung (Right)'],b5875c58fe4e471ffa9c522730c5e22a
+40,['salmon_sn_rnaseq_10x'],HBM728.SRDD.525,['Large Intestine'],2638ed2b83e619710497ca2410dc1da1
+41,['salmon_sn_rnaseq_10x'],HBM894.MXVF.534,['Large Intestine'],abcc3410656bc854cf5e0abdee3de738
+42,['salmon_sn_rnaseq_10x'],HBM554.DSLR.887,['Large Intestine'],67d7b5a3fb4f64a1f714d4369fdedc16
+43,['salmon_sn_rnaseq_10x'],HBM322.DQBR.836,['Lung (Right)'],996a59f0f3819e0b8b425de528467407
+44,['salmon_sn_rnaseq_10x'],HBM977.TWBG.962,['Lung (Right)'],3c22b735beed13a206fa6d0af9762564
+45,['salmon_sn_rnaseq_10x'],HBM665.JPZD.867,['Lung (Right)'],7fb06c821cf184b08ae44c256c29b362
+46,['salmon_sn_rnaseq_10x'],HBM892.TLCK.862,['Lung (Left)'],6a05e7d78aca48e29e5c5f6cf7c08c58
+47,['salmon_sn_rnaseq_10x'],HBM727.BCMM.954,['Lung (Left)'],06f36504b05a954d35eaf5e26be49c42
+48,['salmon_sn_rnaseq_10x'],HBM837.WLNG.477,['Lung (Left)'],b30f6ae2e11e7537bcbe8a67ef6c61fe
+49,['salmon_sn_rnaseq_10x'],HBM388.KTQN.265,['Lung (Left)'],7e7d753ec5074f5d7ae987c47f1c3c0b
+50,['salmon_sn_rnaseq_10x'],HBM348.TWMS.895,['Small Intestine'],2ae126ab16c264352b2d3d2607236b97
+51,['salmon_sn_rnaseq_10x'],HBM223.RVJG.329,['Large Intestine'],3e1d2641c370e6d6c47ff51d34fe5a58
+52,['salmon_sn_rnaseq_10x'],HBM445.DTJZ.223,['Small Intestine'],ec9405ca3fa9c22273927f0d57c8cc97
+53,['salmon_sn_rnaseq_10x'],HBM234.FMQW.858,['Small Intestine'],c3e09a5698adbd3308d75c91eb7ff802
+54,['salmon_sn_rnaseq_10x'],HBM349.CWPK.258,['Small Intestine'],8c1ad4c380ae5477d0b7875fa47e867e
+55,['salmon_sn_rnaseq_10x'],HBM259.DZXX.383,['Large Intestine'],e7b70f4c1b3cb934e45fc4114a4fca28
+56,['salmon_sn_rnaseq_10x'],HBM527.BMGW.552,['Small Intestine'],5e919343564577bb99b140142061fd5f
+57,['salmon_sn_rnaseq_10x'],HBM949.ZHRT.229,['Heart'],d0f164331f53f745cfa3e67bf3feb22d
+58,['salmon_sn_rnaseq_10x'],HBM949.XCRM.573,['Small Intestine'],a56498f8e577a6caed934c83cbbb0bb3
+59,['salmon_sn_rnaseq_10x'],HBM983.RHMG.725,['Small Intestine'],8ae1c6747fb4f469edd91f1f23f65d24
+60,['salmon_sn_rnaseq_10x'],HBM925.KWDZ.229,['Small Intestine'],b23c6f176280ad4c9fe8f74509cb6cf6
+61,['salmon_sn_rnaseq_10x'],HBM852.MFXW.739,['Large Intestine'],e83e9242f4823b710a98fcb9affdfa1d
+62,['salmon_sn_rnaseq_10x'],HBM768.FKCS.477,['Small Intestine'],07b9f36478e22bf820ac6a084e01bf94
+63,['salmon_rnaseq_10x'],HBM388.MPQC.336,['Spleen'],f71249f6e349fb9a99a3d4f08541cab4
+64,['salmon_rnaseq_slideseq'],HBM368.ZTJH.378,['Kidney (Left)'],9bc5d8fc743fd4dd610586ca720976f1
+65,['salmon_rnaseq_slideseq'],HBM976.ZTXZ.422,['Kidney (Left)'],a39f501df340b605a58dc492f51c05db
+66,['salmon_rnaseq_slideseq'],HBM822.KRLC.323,['Kidney (Left)'],39e55aa4b6953651230feff506c00fec
+67,['salmon_sn_rnaseq_10x'],HBM869.HBBF.473,['Kidney (Left)'],be103f95cc6c1a3e48f099d1bd149a49
+68,['salmon_rnaseq_slideseq'],HBM757.KLKW.524,['Kidney (Left)'],0bcea0ab24e8bc5b0529b6f4d899ddad
+69,['salmon_rnaseq_slideseq'],HBM356.MDPN.792,['Kidney (Left)'],2c84a86ab51ec3a1168d8ba573d32c0a
+70,['salmon_sn_rnaseq_10x'],HBM473.GJLK.397,['Kidney (Left)'],7203e44cb29caee9f968d6e6bb36dc7e
+71,['salmon_sn_rnaseq_10x'],HBM745.XMRR.874,['Kidney (Left)'],a8560706a0a6bcffd974ed4dd8082571
+72,['salmon_sn_rnaseq_10x'],HBM455.RZPH.997,['Bladder'],0f35f3bd23a8f773c7213d558338e74d
+73,['salmon_sn_rnaseq_10x'],HBM937.DWCD.722,['Bladder'],43b15fb53db3518a5b1b0dcd4a63ddda
+74,['salmon_sn_rnaseq_10x'],HBM236.JPVT.769,['Heart'],224e01ccfc20977ee5a6a6a5b96aa7d7
+75,['salmon_rnaseq_slideseq'],HBM785.XFTT.663,['Kidney (Left)'],f88e96675a3215474570083edad66e0c
+76,['salmon_sn_rnaseq_10x'],HBM894.DMKD.525,['Kidney (Left)'],8d631eee88855ac59155edca2a3bc1ca
+77,['salmon_rnaseq_slideseq'],HBM269.GDLH.894,['Kidney (Left)'],13d882fbeae970f8fb08a6f0b76bf127
+78,['salmon_rnaseq_slideseq'],HBM834.SLQN.292,['Kidney (Left)'],985b97a1645baa3d7dffd4c0e13adbb6
+79,['salmon_sn_rnaseq_10x'],HBM522.FTFK.487,['Kidney (Right)'],1ea6c0ac5ba60fe35bf63af8699b6fbe
+80,['salmon_rnaseq_slideseq'],HBM294.XZLM.256,['Kidney (Left)'],79f8c7ec1b200dfe5b46d0bcfec02bd7
+81,['salmon_rnaseq_slideseq'],HBM522.QXVG.468,['Kidney (Left)'],55452bd302046918eaeeffa62c5b5f03
+82,['salmon_rnaseq_slideseq'],HBM232.FHDF.343,['Kidney (Right)'],00318be0b7cfa3c6ed7fbeab08fe700b
+83,['salmon_rnaseq_slideseq'],HBM873.NSHG.559,['Kidney (Right)'],5a6470730104461ebb4358a11f70bd56
+84,['salmon_sn_rnaseq_10x'],HBM469.ZSKB.898,['Bladder'],a44f5dbe2472dac447b0f91a24da8b30
+85,['salmon_sn_rnaseq_10x'],HBM593.CLXN.573,['Kidney (Left)'],fae9a1f2e7abefca2203765a3c7a5ba1
+86,['salmon_sn_rnaseq_10x'],HBM254.SXWG.373,['Kidney (Left)'],a2b20bdf8e9602ea775a84cbb10472d3
+87,['salmon_sn_rnaseq_10x'],HBM573.JMXM.823,['Kidney (Left)'],6e1db473492095ccc2f1393d7259b9c0
+88,['salmon_sn_rnaseq_10x'],HBM742.PSCP.565,['Kidney (Right)'],cb75fa61840081ea61c83bd9d76c7061
+89,['salmon_sn_rnaseq_10x'],HBM584.JCQV.788,['Kidney (Right)'],93204c7af92f0bad431735d7c9c9185a
+90,['salmon_rnaseq_slideseq'],HBM434.HHJG.856,['Kidney (Right)'],2553283ad2c4dfe0033ba752fe204551
+91,['salmon_sn_rnaseq_10x'],HBM829.MCZF.769,['Kidney (Left)'],cd7dd20541b34cb5d4e06f9f55cb4bc1
+92,['salmon_rnaseq_slideseq'],HBM834.THPC.928,['Kidney (Right)'],67c6b239cf0986423273c874dd8c5e66
+93,['salmon_rnaseq_slideseq'],HBM552.PBBF.363,['Kidney (Right)'],2a590db3d7ab1e1512816b165d95cdcf
+94,['salmon_rnaseq_slideseq'],HBM979.KNQM.454,['Kidney (Right)'],0cecd7cf1da6f81d3654c1712a5d61a2
+95,['salmon_rnaseq_slideseq'],HBM844.HNVJ.589,['Kidney (Right)'],707d72d89097af2ff75d127137e5547e
+96,['salmon_rnaseq_slideseq'],HBM892.CCDZ.345,['Kidney (Right)'],fdfa344add5dcf9e8e0f6572efbf9312
+97,['salmon_sn_rnaseq_10x'],HBM944.XPFX.655,['Kidney (Right)'],8cc6af72f27be7b6406547c64bbb2637
+98,['salmon_rnaseq_slideseq'],HBM478.VWXX.362,['Kidney (Right)'],b07a1fb96ddc2d4119e1f9a73d9c0a6a
+99,['salmon_rnaseq_slideseq'],HBM465.RKKK.264,['Kidney (Right)'],0027cb59bcb4a34d5db83acaf934a9d9
+100,['salmon_sn_rnaseq_10x'],HBM464.HPLN.254,['Bladder'],edfca1e982b712389bcc67d40d148a53
+101,['salmon_rnaseq_snareseq'],HBM973.QSVW.788,['Heart'],9c5fe6cf77700e2e81ca1b1f47f6b80e
+102,['salmon_rnaseq_snareseq'],HBM464.DVRK.588,['Heart'],6015aa7cd30a4522b7e18ec617617619
+103,['salmon_rnaseq_snareseq'],HBM664.QPDT.692,['Lung (Right)'],65b09a22752175901f42fe92e84f1c8e
+104,['salmon_rnaseq_snareseq'],HBM325.DHQB.396,['Heart'],4446f8a7fc5611d170ac3ade263131b3
+105,['salmon_rnaseq_10x'],HBM247.ZGJR.925,['Knee (Right)'],1c8bfe669dcdf2c4564f3a4a1403cd92
+106,['salmon_sn_rnaseq_10x'],HBM349.KLTH.625,['Lung (Right)'],f91fddc1041953e0f09a1ede20b58f97
+107,['salmon_sn_rnaseq_10x'],HBM435.GRJM.426,['Lung (Right)'],e3794812796232ea2f9335c07c9f0aad
+108,['salmon_sn_rnaseq_10x'],HBM987.TSCN.269,['Lung (Right)'],2edf11e0b51b157a319a5fdf68b0d3c7
+109,['salmon_sn_rnaseq_10x'],HBM982.WTGZ.866,['Lung (Right)'],18b8ab61674cf05024456cde49ac67bb
+110,['salmon_sn_rnaseq_10x'],HBM223.SLLJ.389,['Lung (Right)'],3cb80d40ef2e56ae4c6f12ea24ce4008
+111,['salmon_sn_rnaseq_10x'],HBM932.BBFB.974,['Lung (Right)'],5018361bf80fb257d39cea6f4425bbae
+112,['salmon_sn_rnaseq_10x'],HBM298.SZTV.895,['Lung (Right)'],e73d3a3ccb7d5f8ca8a0df5eb2724f94
+113,['salmon_sn_rnaseq_10x'],HBM287.WLDV.543,['Lung (Right)'],3a659cda80f149cbfaf94a0c004c419d
+114,['salmon_sn_rnaseq_10x'],HBM856.XFXL.273,['Lung (Right)'],e31177002791e52119acd9e0b2d06f78
+115,['salmon_sn_rnaseq_10x'],HBM676.MCLF.587,['Lung (Right)'],37e2a37daa119629991bbc398d00b576
+116,['salmon_sn_rnaseq_10x'],HBM959.ZJFG.362,['Lung (Left)'],8f127a10d370ddfbc902313f248721c3
+117,['salmon_sn_rnaseq_10x'],HBM968.CQKK.258,['Lung (Left)'],e855a116375f67684fb25be9600e455b
+118,['salmon_sn_rnaseq_10x'],HBM434.MRVJ.696,['Lung (Left)'],056c97623fca0f1414572b68aca69cee
+119,['salmon_sn_rnaseq_10x'],HBM376.VKWW.936,['Lung (Right)'],7199675050ce69bc8c4812005ff086f9
+120,['salmon_sn_rnaseq_10x'],HBM927.FWCN.753,['Large Intestine'],277152f17b5a2f308820ab4d85c5a426
+121,['salmon_sn_rnaseq_10x'],HBM787.WSCS.874,['Large Intestine'],3e6bdf82a2c9fb71ee98dff673b505af
+122,['salmon_rnaseq_sciseq'],HBM342.CMHT.948,['Heart'],35e9bf0f58152ceb6f4d01052ac8867d
+123,['salmon_sn_rnaseq_10x'],HBM876.ZBTD.373,['Large Intestine'],be9a0e3119ea00dc156eff7ca346f46e
+124,['salmon_rnaseq_sciseq'],HBM982.THGM.772,['Heart'],c616de3ce57804ede2dd519a1c8addf2
+125,['salmon_rnaseq_sciseq'],HBM255.QMNS.733,['Heart'],21043afd6be7ec258f8a9fa1577c41b5
+126,['salmon_rnaseq_sciseq'],HBM364.XLVH.839,['Heart'],2d3dbd5e5a3d9d5cfc7a46f06815a4eb
+127,['salmon_sn_rnaseq_10x'],HBM743.RNWC.765,['Kidney (Left)'],35f5b75a7e3d0711f16b0a10219586fb
+128,['salmon_rnaseq_sciseq'],HBM599.GNJN.777,['Heart'],22684b9011fc5aea5cb3f89670a461e8
+129,['salmon_rnaseq_snareseq'],HBM947.GLGL.465,['Kidney (Right)'],dd3e6da115fd13eee62d9a4fba2324ae
+130,['salmon_sn_rnaseq_10x'],HBM758.GVSL.783,['Small Intestine'],f6eb890063d13698feb11d39fa61e45a
+131,['salmon_sn_rnaseq_10x'],HBM877.JFMS.222,['Heart'],3d0bf870aaa607cd0bd0146a461ea0ac
+132,['salmon_sn_rnaseq_10x'],HBM644.NKCL.897,['Large Intestine'],0b0ef5c2b8786644f0b6bdef1c1d7a4f
+133,['salmon_sn_rnaseq_10x'],HBM688.GVRR.228,['Large Intestine'],d1d10cfa18d059a96365998fe6406ca9
+134,['salmon_sn_rnaseq_10x'],HBM827.VSPC.775,['Small Intestine'],81d8286998779f11d424210f19276941
+135,['salmon_sn_rnaseq_10x'],HBM362.JVGH.934,['Small Intestine'],453b06e1f62ec3e54d8380e4e974a5a5
+136,['salmon_sn_rnaseq_10x'],HBM248.VZRB.728,['Small Intestine'],f85a3bfcde06f603102506c851dd76a0
+137,['salmon_rnaseq_snareseq'],HBM675.VBDH.688,['Kidney (Right)'],2639e9e8488edddde275491cdbaae662
+138,['salmon_rnaseq_snareseq'],HBM563.ZTXJ.296,['Kidney (Left)'],f90ca327ace4f28721be1c39c77d8834
+139,['salmon_rnaseq_snareseq'],HBM734.LFLC.264,['Kidney (Right)'],c14b104f9e44511ddf82697bce0d1901
+140,['salmon_rnaseq_snareseq'],HBM993.ZNNJ.876,['Kidney (Left)'],9457860c1b69f7ec3e51a6b648eabf13
+141,['salmon_sn_rnaseq_10x'],HBM658.VPJK.669,['Lung (Right)'],f9848244883f6c70972acef16680431a
+142,['salmon_sn_rnaseq_10x'],HBM244.QJFT.664,['Lung (Right)'],4b16c24a3997ea8754921b0f1d60bc4d
+143,['salmon_sn_rnaseq_10x'],HBM762.RPDR.282,['Lung (Right)'],e81c9c9753998b2ca69e8bceadf2409d
+144,['salmon_sn_rnaseq_10x'],HBM468.SSXX.967,['Lung (Right)'],0b590c9e3a62178da592e85572e2f1bf
+145,['salmon_rnaseq_snareseq'],HBM727.DWPV.852,['Lung (Right)'],b0f51c557f05bcff69c9eed090c93b79
+146,['salmon_sn_rnaseq_10x'],HBM887.DDJL.589,['Lung (Right)'],3152ddcb811d362113ebb119602f2cd4
+147,['salmon_rnaseq_10x'],HBM355.DGKN.367,['Liver'],7cc96210e80d5736ca38711503e4ff06
+148,['salmon_sn_rnaseq_10x'],HBM964.BVWP.737,['Kidney (Left)'],6efd19dc32f820a0e6be6a34973359b6
+149,['salmon_sn_rnaseq_10x'],HBM868.CXJM.449,['Large Intestine'],39d51c436734e5750bf84553ef7eaf85
+150,['salmon_sn_rnaseq_10x'],HBM896.XHBT.664,['Large Intestine'],b6b6cb64d837a70aacd0275175d1c4e0
+151,['salmon_sn_rnaseq_10x'],HBM633.JXTC.477,['Large Intestine'],032d7b6b0b4c3c66772c7dbee2fe9606
+152,['salmon_sn_rnaseq_10x'],HBM855.NQPX.898,['Large Intestine'],089ebad7c98cebe22f6d97b246fb45c6
+153,['salmon_rnaseq_10x'],HBM232.MLHJ.832,['Spleen'],d9780d3f4eb9edfe275abaa32ff8633b
+154,['salmon_rnaseq_10x'],HBM689.XCBK.436,['Spleen'],391061b538480d6d630bdfec283c0293
+155,['salmon_rnaseq_10x'],HBM698.FWFH.998,['Spleen'],29a538c3ddb396dee26188ae1151da46
+156,['salmon_sn_rnaseq_10x'],HBM326.DWJZ.789,['Kidney (Left)'],24c896083333c12d8f19bd59e855e9b7
+157,['salmon_rnaseq_slideseq'],HBM532.GPWF.535,['Kidney (Left)'],6b5d4d3a6af69a3bb82c4768cd24396c
+158,['salmon_sn_rnaseq_10x'],HBM546.RNHX.756,['Kidney (Right)'],173de2e80adf6a73ac8cff5ccce20dfc
+159,['salmon_rnaseq_slideseq'],HBM793.TLNJ.249,['Kidney (Right)'],0b7015a55e38bd43b6cd6f58ddeb9059
+160,['salmon_rnaseq_slideseq'],HBM699.GZNP.474,['Kidney (Right)'],0110be17631ab95c722d476145feb00c
+161,['salmon_rnaseq_slideseq'],HBM942.NXWW.245,['Kidney (Right)'],b5ff6c347488c45deafeb6316dc7925b
+162,['salmon_rnaseq_slideseq'],HBM476.VHDB.268,['Kidney (Right)'],bca0d1d7fcb2bdcde16a31d1484e83e5
+163,['salmon_rnaseq_slideseq'],HBM664.LQSH.693,['Kidney (Right)'],4348d5cf6485b949381a1c3358ab3f23
+164,['salmon_rnaseq_slideseq'],HBM232.MBNR.586,['Kidney (Right)'],a1d17fdd270a69c813b872a927dfa5f3
+165,['salmon_rnaseq_slideseq'],HBM368.HNTH.732,['Kidney (Right)'],bc26df5c01b624841a51e60cd8229c51
+166,['salmon_rnaseq_slideseq'],HBM495.ZFDT.229,['Kidney (Right)'],069a6930776ca28f8e10c3781aa13b56
+167,['salmon_rnaseq_slideseq'],HBM675.TZGS.843,['Kidney (Right)'],d363e6062d4962bc7ef44d1d94afec62
+168,['salmon_rnaseq_slideseq'],HBM965.PSNC.855,['Kidney (Right)'],5f4e84e77fd0e4dec0c4d1cab468de15
+169,['salmon_rnaseq_slideseq'],HBM846.KVCF.674,['Kidney (Right)'],2d2356cf5b4eb114d958c31346c3dd2f
+170,['salmon_rnaseq_slideseq'],HBM349.SNLB.893,['Kidney (Right)'],78e90185d511ee0f6293e266a7354348
+171,['salmon_rnaseq_slideseq'],HBM266.FTJN.632,['Kidney (Right)'],8464b75a88e33b69027c39b0c3f43b2f
+172,['salmon_rnaseq_slideseq'],HBM729.TVMN.534,['Kidney (Right)'],e901621d0400c18d3d69decd46a82c84
+173,['salmon_rnaseq_slideseq'],HBM282.BKRZ.254,['Kidney (Right)'],44830922b634a9ecd4812b4f27ad4923
+174,['salmon_rnaseq_slideseq'],HBM684.TLPQ.738,['Kidney (Right)'],781a16848177ef6567d4963a0eb9fb0a
+175,['salmon_sn_rnaseq_10x'],HBM482.MCCP.264,['Kidney (Left)'],d482512016a61ef479960e2cb58552f2
+176,['salmon_sn_rnaseq_10x'],HBM957.ZHJC.673,['Kidney (Left)'],8a05f6bdf4ad165f8ba5f3f194ebf93b
+177,['salmon_sn_rnaseq_10x'],HBM796.PCWD.863,['Kidney (Left)'],5a5ca03fa623602d9a859224aa40ace4
+178,['salmon_sn_rnaseq_10x'],HBM384.DLRM.527,['Kidney (Left)'],316772d6487538152b82e056fa74471d
+179,['salmon_sn_rnaseq_10x'],HBM326.DMVL.323,['Bladder'],578f1282276ddc1cc4c4817e4950f13c
+180,['salmon_rnaseq_snareseq'],HBM489.FMFG.924,['Heart'],3cea4461cc32a615254a7a6b5423aa1b
+181,['salmon_sn_rnaseq_10x'],HBM752.KZCK.589,['Kidney (Right)'],ad693f99fb9006e68a53e97598da1509
+182,['salmon_sn_rnaseq_10x'],HBM372.TFNT.572,['Kidney (Right)'],a2268636667d51ce05ddea2451621434
+183,['salmon_sn_rnaseq_10x'],HBM869.JPSM.342,['Kidney (Left)'],b52062ad74e35b61179be6d4d137b7b8
+184,['salmon_sn_rnaseq_10x'],HBM467.RQDN.922,['Kidney (Left)'],3c1b10bc912c60c9afc36b7423695236
+185,['salmon_sn_rnaseq_10x'],HBM626.PHCW.834,['Kidney (Left)'],1dc16eb0270ff73291dd45b6a96aa3c0
+186,['salmon_rnaseq_slideseq'],HBM528.KNCB.488,['Kidney (Left)'],a6bfa5ab516fcc24137cdd3ce3971e2c
+187,['salmon_sn_rnaseq_10x'],HBM367.SLVS.253,['Bladder'],ffade7fd19cebd25cd9a9fab2111cb09
+188,['salmon_rnaseq_slideseq'],HBM438.BGFJ.559,['Kidney (Right)'],450581eb06aeeb66419b4007d5e86baa
+189,['salmon_rnaseq_slideseq'],HBM258.HQCL.349,['Kidney (Right)'],5c57b3574a103e4990c8ed54cd82c6e6
+190,['salmon_rnaseq_slideseq'],HBM623.PSDG.665,['Kidney (Right)'],0430a44e418219aafce608f4286b2a9b
+191,['salmon_rnaseq_slideseq'],HBM688.FLJB.475,['Kidney (Right)'],b0c09583b2a1b3c82eddce71706dba4b
+192,['salmon_rnaseq_slideseq'],HBM265.HMJZ.658,['Kidney (Left)'],29596bee3f70b2bfc89d184fe38a3daa
+193,['salmon_sn_rnaseq_10x'],HBM437.QDDP.227,['Kidney (Left)'],80a6ada1863d11fd0c338b2fab7f7d36
+194,['salmon_rnaseq_slideseq'],HBM587.QDFJ.926,['Kidney (Left)'],ccf899abde825d51b03ad91028483ac1
+195,['salmon_sn_rnaseq_10x'],HBM494.MQQL.234,['Kidney (Left)'],79022070eab3517655e57a85b2438e7a
+196,['salmon_sn_rnaseq_10x'],HBM375.WFJK.667,['Kidney (Left)'],34dc58df212563c90d9d86782f4209ba
+197,['salmon_sn_rnaseq_10x'],HBM275.PDRR.759,['Kidney (Left)'],a4fe3e811e2bfc795dbbb133f6b6a8a4
+198,['salmon_sn_rnaseq_10x'],HBM358.DJCN.966,['Kidney (Left)'],03e021cda976339676187e8597d7c485
+199,['salmon_sn_rnaseq_10x'],HBM722.TVXP.469,['Kidney (Left)'],9fe24e50c8b8b77d86900ee4beecef69
+200,['salmon_sn_rnaseq_10x'],HBM373.HCFG.722,['Kidney (Left)'],b95f34761c252ebbd1e482cd9afae73f
+201,['salmon_sn_rnaseq_10x'],HBM679.ZVHH.999,['Kidney (Left)'],323c68262eb07f786041b6253e9e83ca
+202,['salmon_sn_rnaseq_10x'],HBM898.XQTL.438,['Bladder'],56060793c38c82d8c312e5e05d5d189b
+203,['salmon_rnaseq_snareseq'],HBM596.GJDN.437,['Heart'],e0bc8680624ee3aa097f52cc0f860f48
+204,['salmon_rnaseq_snareseq'],HBM484.TPRM.625,['Heart'],24709334b135821a7d5296523da4732f
+205,['salmon_rnaseq_snareseq'],HBM972.BSMV.568,['Lung (Right)'],8fc6de017a39057be8e19737ce5eff67
+206,['salmon_sn_rnaseq_10x'],HBM782.HVML.355,['Kidney (Left)'],fbb43e7c05d88c8700af94a32cb4e21d
+207,['salmon_rnaseq_snareseq'],HBM649.QVHW.947,['Lung (Right)'],38be64fc0790273627f5afa71479868e
+208,['salmon_sn_rnaseq_10x'],HBM675.RVGB.258,['Lung (Right)'],171bd6114652ce2a1ff0e4757b5eaef9
+209,['salmon_sn_rnaseq_10x'],HBM265.FQWZ.384,['Lung (Right)'],d0c1bd09443c301413f44f7108d20e08
+210,['salmon_rnaseq_snareseq'],HBM364.ZLDR.283,['Lung (Right)'],ee6e44b3e6cb77ef1806e722390a01a8
+211,['salmon_rnaseq_snareseq'],HBM463.SSWN.245,['Lung (Right)'],c40da13b509a43ba96d3a6832f79bf71
+212,['salmon_rnaseq_snareseq'],HBM886.XJSL.755,['Lung (Right)'],4608ccb9df2505ed8f3ffe02451b4a19
+213,['salmon_sn_rnaseq_10x'],HBM496.DDZC.964,['Lung (Right)'],39cca81a274a06be881734d01dcc7f66
+214,['salmon_sn_rnaseq_10x'],HBM672.CMLP.763,['Lung (Right)'],f846d8a192affe8580eacd18e4e27897
+215,['salmon_sn_rnaseq_10x'],HBM668.FBBS.852,['Lung (Right)'],f8f8401447d60221cef0532952e59b98
+216,['salmon_sn_rnaseq_10x'],HBM646.LJJQ.322,['Lung (Right)'],e7abfa80618f6dffe82267a6ea144c5a
+217,['salmon_sn_rnaseq_10x'],HBM742.LPKN.865,['Lung (Right)'],98fd7493f62883b748e0f37885be0f07
+218,['salmon_sn_rnaseq_10x'],HBM983.SZNQ.449,['Lung (Left)'],425f83d73a8c5786810c0272c0c207c4
+219,['salmon_sn_rnaseq_10x'],HBM455.ZNPC.327,['Lung (Right)'],922fdad6086766febc2f4a71059d6f82
+220,['salmon_sn_rnaseq_10x'],HBM683.HJQF.753,['Kidney (Left)'],e375a44f5cf5457c8f9b1132574c2436
+221,['salmon_sn_rnaseq_10x'],HBM938.FTRX.289,['Kidney (Left)'],5302ee81cb9692dfda92b2c5dad37198
+222,['salmon_sn_rnaseq_10x'],HBM522.VFGB.335,['Kidney (Left)'],dc4f4778dd04263c0660addcc93b3807
+223,['salmon_sn_rnaseq_10x'],HBM938.WTSR.492,['Kidney (Left)'],524dc341a03c155b6f4140e9d72f9b1d
+224,['salmon_sn_rnaseq_10x'],HBM237.TJFZ.599,['Small Intestine'],11678046b4e78f95762acc47d3074dc5
+225,['salmon_sn_rnaseq_10x'],HBM248.SGCJ.257,['Small Intestine'],4fd71a24a7a81141700b26e9a9890172
+226,['salmon_sn_rnaseq_10x'],HBM528.KNNX.327,['Small Intestine'],2c718a10905c5941d4cc134a7027f808
+227,['salmon_rnaseq_sciseq'],HBM927.DZCV.762,['Heart'],007f3dfaaa287d5c7c227651f61a9c5b
+228,['salmon_rnaseq_sciseq'],HBM563.ZTQV.233,['Heart'],fd57a928d9f3cee7e95d284f1d5b9935
+229,['salmon_sn_rnaseq_10x'],HBM739.CHRX.338,['Large Intestine'],71477f504b0069828a368009fa3ab1ad
+230,['salmon_sn_rnaseq_10x'],HBM265.NQCH.947,['Large Intestine'],a5729f859fc944c76f77fc74a1710e3b
+231,['salmon_sn_rnaseq_10x'],HBM764.ZFGN.389,['Large Intestine'],846e56ed969922f1cb7a81619b175620
+232,['salmon_rnaseq_sciseq'],HBM592.DXHG.266,['Heart'],d6e6c8e452ed628425e9e928306a6db0
+233,['salmon_rnaseq_sciseq'],HBM284.MNHF.223,['Heart'],19304b10d9e1f17af19cccb2feb014a5
+234,['salmon_rnaseq_sciseq'],HBM573.MWDW.928,['Heart'],b1ac71625c1aba9d819fae1725c27a42
+235,['salmon_sn_rnaseq_10x'],HBM384.LLDR.794,['Small Intestine'],ae24a29456fe677fcb97a4468eba922a
+236,['salmon_sn_rnaseq_10x'],HBM696.FGSV.776,['Large Intestine'],9b03c4c79ef7bcd1e8992cd50ed3f482
+237,['salmon_sn_rnaseq_10x'],HBM536.BTZP.293,['Small Intestine'],4c4a3047474bf43ea46ca99157c460e1
+238,['salmon_sn_rnaseq_10x'],HBM298.XPFQ.827,['Large Intestine'],8ccdee5587a477c482be2e6e19dddf7a
+239,['salmon_sn_rnaseq_10x'],HBM265.PCGD.229,['Small Intestine'],174c43df28ab2ab737471d00a65d7730
+240,['salmon_sn_rnaseq_10x'],HBM842.TBXT.532,['Small Intestine'],811e4fd5a09896edcb70814a582e85e4
+241,['salmon_sn_rnaseq_10x'],HBM459.SBBC.954,['Lung (Right)'],c92847b1dcfb19774c9829b0759162b2
+242,['salmon_sn_rnaseq_10x'],HBM268.JVCP.449,['Lung (Right)'],87023a2c65ec7aaa439af2a55c77cbb5
+243,['salmon_sn_rnaseq_10x'],HBM457.MFQV.579,['Lung (Left)'],57cf1d63bf13e804c38495f02731aa5e
+244,['salmon_rnaseq_snareseq'],HBM497.WQJW.847,['Kidney (Right)'],85dcbf66b078d61015a6e1c1f971d7d8
+245,['salmon_rnaseq_snareseq'],HBM787.XCSX.733,['Kidney (Right)'],dbe24793ebc30c47e241150cccf4b0d1
+246,['salmon_sn_rnaseq_10x'],HBM648.DKQK.874,['Kidney (Left)'],08c1aa2e74700e1170fc9218ae255992
+247,['salmon_rnaseq_snareseq'],HBM986.TMMG.663,['Kidney (Left)'],fa9a13fa6cca3c96869930f0b483b484
+248,['salmon_rnaseq_snareseq'],HBM694.NXCN.368,['Kidney (Left)'],7f1e932a91a86ef58ed61ee19c175c18
+249,['salmon_sn_rnaseq_10x'],HBM293.NNSQ.773,['Kidney (Left)'],92248f72d47b916a2027085ec1b8e996
+250,['salmon_rnaseq_snareseq'],HBM455.DWVJ.936,['Kidney (Right)'],9ef25b416e99014c7af842b97626e676
+251,['salmon_sn_rnaseq_10x'],HBM525.SJRT.585,['Kidney (Right)'],739184f7ec84d93a35360cde81cc026c
+252,['salmon_sn_rnaseq_10x'],HBM537.MVDQ.934,['Heart'],a48ab0bf5d8084da24859c4e64336e9c
+253,['salmon_sn_rnaseq_10x'],HBM596.VMRV.644,['Small Intestine'],c3fc521953367daa816487df05a58ec8
+254,['salmon_sn_rnaseq_10x'],HBM867.NVKS.443,['Small Intestine'],266d58d22549461cd454c32084b9f7fe
+255,['salmon_sn_rnaseq_10x'],HBM685.MSCQ.978,['Large Intestine'],69d175d24b6b3997cc99fa6531a5fbce
+256,['salmon_sn_rnaseq_10x'],HBM269.LCND.454,['Large Intestine'],9308dab31ff0b18325f79a671cd6d833
+257,['salmon_sn_rnaseq_10x'],HBM843.CLTD.457,['Small Intestine'],1c7aed43c995b32eb9b7233dce635529
+258,['salmon_sn_rnaseq_10x'],HBM879.RZJJ.974,['Kidney (Left)'],897c8d98e62b782b81f4b1bbf85e49bc
+259,['salmon_sn_rnaseq_10x'],HBM772.WGBN.852,['Kidney (Right)'],30cca46b98006c525d3df89d6b6374e4
+260,['salmon_sn_rnaseq_10x'],HBM292.GSZL.269,['Kidney (Right)'],dd7ccbc306692fc5ff5e61c22845da21
+261,['salmon_sn_rnaseq_10x'],HBM498.NTHR.573,['Kidney (Left)'],84ae65cb9e8eb84562ee268b4e7b5637
+262,['salmon_sn_rnaseq_10x'],HBM355.NTQW.365,['Bladder'],6f1b0a72a5e10af1474cec9a8804b8f5
+263,['salmon_sn_rnaseq_10x'],HBM457.CPNK.822,['Kidney (Left)'],75356313b18a160c4cb1c1ee0cad5cb6
+264,['salmon_rnaseq_slideseq'],HBM737.XZCH.767,['Kidney (Right)'],4e372aa4f8cfce62f2663c5ef810409a
+265,['salmon_rnaseq_slideseq'],HBM459.KCST.593,['Kidney (Right)'],aeaaa0536b87935ad50cf69f1a0c3b1a
+266,['salmon_rnaseq_slideseq'],HBM634.QQWF.789,['Kidney (Right)'],feea9accbe57b7a052563895ac543d91
+267,['salmon_rnaseq_slideseq'],HBM986.KFWG.239,['Kidney (Right)'],cdf9127efdfc96189845c35244d4d8ab
+268,['salmon_rnaseq_slideseq'],HBM589.DDFR.467,['Kidney (Left)'],fee4cf0e7da557d3ef5c535b5417ed7a
+269,['salmon_rnaseq_slideseq'],HBM247.KWKL.324,['Kidney (Left)'],97c65df1d8fdc8d67c34a55e386fd430
+270,['salmon_rnaseq_slideseq'],HBM855.HPDG.442,['Kidney (Left)'],206d669d243f6dab04cc126a52cdab8d
+271,['salmon_rnaseq_slideseq'],HBM248.HPXX.584,['Kidney (Left)'],51bfd85763954248725ebf69f0dde5eb
+272,['salmon_sn_rnaseq_10x'],HBM976.LDTR.982,['Kidney (Left)'],5ee240959c96b49d960702755478b9fc
+273,['salmon_sn_rnaseq_10x'],HBM439.JPZX.574,['Kidney (Right)'],82400009b02f7651f3edf5b292f7cd9a
+274,['salmon_sn_rnaseq_10x'],HBM975.MVDK.648,['Kidney (Right)'],ec7ebe15feec075a0299979b0350dd3a
+275,['salmon_rnaseq_slideseq'],HBM879.GKJM.445,['Kidney (Right)'],bf1896efe41bb1b17eee3bd77072454d
+276,['salmon_rnaseq_slideseq'],HBM445.HBRQ.488,['Kidney (Right)'],72fd0d8256cd9d9e9d0c75ed7b4431cc
+277,['salmon_rnaseq_slideseq'],HBM393.SNVZ.737,['Kidney (Right)'],30a94db595b402bd813b020b0c51e233
+278,['salmon_rnaseq_slideseq'],HBM297.FDTX.382,['Kidney (Right)'],2e4ae8b2f845f62e77cea46ef074981c
+279,['salmon_sn_rnaseq_10x'],HBM779.FQMX.497,['Kidney (Right)'],af5741dad7aecf7960a129c3d2ae642a
+280,['salmon_sn_rnaseq_10x'],HBM594.TKFR.674,['Kidney (Left)'],cd9d171eaa5bbff511011b81985fa4f8
+281,['salmon_rnaseq_slideseq'],HBM547.TFRR.794,['Kidney (Left)'],0db9481caed92aec4cddc606108692d5
+282,['salmon_rnaseq_slideseq'],HBM827.MJMM.447,['Kidney (Right)'],dab09765ac710804749b195462381b32
+283,['salmon_sn_rnaseq_10x'],HBM446.TBPT.898,['Bladder'],d67c61063b82f6479e93133bdd8949fb
+284,['salmon_sn_rnaseq_10x'],HBM262.LMHQ.472,['Bladder'],4b3d4efca2e64a650e943c7bf63f9830
+285,['salmon_rnaseq_10x'],HBM639.XJJK.393,['Lymph Node'],b1f17d04de81b0a8a8e2b894308498d3
+286,['salmon_rnaseq_10x'],HBM323.BVBV.658,['Spleen'],9a36e5319429ec6aca5a8a9fef401929
+287,['salmon_rnaseq_10x'],HBM726.GNCK.634,['Spleen'],8e2806ca447695e674889dba28506d38
+288,['salmon_rnaseq_10x'],HBM493.DHZJ.845,['Spleen'],7b99b447ffc977a3f6f890d32c7238b3
+289,['salmon_rnaseq_10x'],HBM675.CLZD.975,['Lymph Node'],b299e98235f157534445f00884ae7c44
+290,['salmon_rnaseq_slideseq'],HBM776.GZVW.552,['Kidney (Left)'],2d8b8b5f4cf8b1f955b1b823ae9a9441
+291,['salmon_rnaseq_slideseq'],HBM476.ZLDJ.925,['Kidney (Left)'],35234b5e3eda236bb80ef3722da366f7
+292,['salmon_sn_rnaseq_10x'],HBM986.QHTG.356,['Kidney (Left)'],3c53dca6b15e90eab6166f527636685c
+293,['salmon_sn_rnaseq_10x'],HBM729.RCXL.887,['Kidney (Left)'],2dc005024c64b82e95e6e69d56407c0e
+294,['salmon_sn_rnaseq_10x'],HBM842.DDTX.473,['Kidney (Left)'],63349325056ccff582f1d095055c7e12
+295,['salmon_rnaseq_slideseq'],HBM363.FVKP.935,['Kidney (Left)'],51bc718e411810044e4258dae80ff044
+296,['salmon_sn_rnaseq_10x'],HBM845.SFMK.942,['Kidney (Left)'],7c9e07c96d144536525b1f889acee14d
+297,['salmon_rnaseq_slideseq'],HBM989.WFLC.569,['Kidney (Left)'],5908774e08f8a32737cdfe70e868a944
+298,['salmon_rnaseq_slideseq'],HBM949.PLLF.787,['Kidney (Left)'],74e09cbb91aba06b48429651cb388940
+299,['salmon_sn_rnaseq_10x'],HBM349.BJZL.272,['Kidney (Left)'],e35c788dcdcb18c64ad300097b0b863c
+300,['salmon_rnaseq_slideseq'],HBM795.RNJG.329,['Kidney (Left)'],a19973065eec1489f4d6a308e73da275
+301,['salmon_rnaseq_slideseq'],HBM595.LBXP.486,['Kidney (Left)'],fd0b0c1d050010de3520492147aacef4
+302,['salmon_rnaseq_slideseq'],HBM398.BLRW.228,['Kidney (Left)'],1b5c7d45cb0e475b73f9280d092d34a5
+303,['salmon_rnaseq_slideseq'],HBM344.SXNJ.874,['Kidney (Left)'],41dab04d801d21bfc99328c9e249cc68
+304,['salmon_sn_rnaseq_10x'],HBM697.GKCG.783,['Kidney (Right)'],0b2dd0e14711d1f77e15ff1c731ef069
+305,['salmon_sn_rnaseq_10x'],HBM685.VPKN.922,['Kidney (Left)'],ef6d7b2952846bd382fd815cb100cd1c
+306,['salmon_sn_rnaseq_10x'],HBM633.LLDZ.679,['Kidney (Right)'],9a7e6be288b27ddbd3366c4ae41bbcd2
+307,['salmon_sn_rnaseq_10x'],HBM793.JDRF.289,['Kidney (Right)'],018a905cdbdff684760859f594d3fd77
+308,['salmon_rnaseq_slideseq'],HBM294.CHCQ.358,['Kidney (Left)'],2cd4eabca0b653af7f3b79534b2d641f
+309,['salmon_rnaseq_snareseq'],HBM562.SHDB.983,['Lung (Left)'],668a833e9d3ba0071d8648d6108828df
+310,['salmon_rnaseq_snareseq'],HBM748.PRHN.647,['Heart'],c939070bed51fbad07814bc5f265d839
+311,['salmon_sn_rnaseq_10x'],HBM893.JVLB.845,['Heart'],4c435d2297941eafda7fe30f327f88ec
+312,['salmon_sn_rnaseq_10x'],HBM468.ZZVX.652,['Large Intestine'],7edbff53248f2a2c8e74f5f955681734
+313,['salmon_sn_rnaseq_10x'],HBM537.SKND.632,['Kidney (Left)'],cf3ba9b4cc97302d70d28139ae8e4c13
+314,['salmon_sn_rnaseq_10x'],HBM439.BQLR.867,['Kidney (Left)'],47015df8ab7615a9ce26098d88196dde
+315,['salmon_rnaseq_snareseq'],HBM479.GMDK.586,['Kidney (Right)'],704d16116f29994ab0e714f4afdb5516
+316,['salmon_rnaseq_snareseq'],HBM475.CVXD.875,['Kidney (Right)'],33c0ce043ae331ea23fc80023428e534
+317,['salmon_rnaseq_snareseq'],HBM745.HTBD.332,['Kidney (Right)'],8c5e705001d5cc1c40dbd963ad848486
+318,['salmon_rnaseq_snareseq'],HBM823.CNRW.484,['Kidney (Right)'],ccbad4ffd323265937b842ea36ada4ad
+319,['salmon_sn_rnaseq_10x'],HBM226.HRTZ.874,['Kidney (Right)'],91cfb45f5d398e950ed65786c87f4372
+320,['salmon_sn_rnaseq_10x'],HBM969.PBMH.689,['Kidney (Right)'],377df3da484d29fdde20ec020a76ba1b
+321,['salmon_rnaseq_snareseq'],HBM236.KSJH.889,['Kidney (Left)'],aa93e53df10842c13348a334c8fe423f
+322,['salmon_sn_rnaseq_10x'],HBM292.MTQK.563,['Kidney (Left)'],434fbc55d458dc4e06da9ba4961f3840
+323,['salmon_rnaseq_snareseq'],HBM874.JPGB.398,['Kidney (Right)'],56742ee7dcbe8b03d964f519009db12d
+324,['salmon_sn_rnaseq_10x'],HBM864.CWHJ.963,['Lung (Right)'],9305d53ae8c0dd565a088cd45f20e0c8
+325,['salmon_sn_rnaseq_10x'],HBM929.VSJQ.633,['Lung (Right)'],37ccf28cb5c06e8ba076f587ee4e50be
+326,['salmon_sn_rnaseq_10x'],HBM689.ZKRJ.585,['Kidney (Left)'],0d1eb3d774a694b79e844987f771b183
+327,['salmon_sn_rnaseq_10x'],HBM356.QPJF.839,['Kidney (Left)'],8f27d93b71147597f38de827f233930e
+328,['salmon_sn_rnaseq_10x'],HBM363.TBHH.346,['Kidney (Left)'],e65175561b4b17da5352e3837aa0e497
+329,['salmon_sn_rnaseq_10x'],HBM597.PBJW.593,['Kidney (Left)'],b2ab05f290c0740c3198f020cd70e78d
+330,['salmon_sn_rnaseq_10x'],HBM673.LDWQ.669,['Lung (Right)'],045a7d6bcca6e1d22c7f6dee032ce25a
+331,['salmon_sn_rnaseq_10x'],HBM574.MNBP.566,['Lung (Left)'],b5aaa0ff6cde445a6808dc03e27c9364
+332,['salmon_sn_rnaseq_10x'],HBM389.CRWJ.888,['Lung (Left)'],96b322ef4a9a31c0a6c80ac0cc1c8a31
+333,['salmon_sn_rnaseq_10x'],HBM765.NHZB.337,['Lung (Left)'],d4b23a7e9ecabca43d99d9b7444b742b
+334,['salmon_sn_rnaseq_10x'],HBM844.SDWH.792,['Lung (Left)'],65fff84c7cbf4fda89c1a038f4739edc
+335,['salmon_sn_rnaseq_10x'],HBM958.LLPS.333,['Lung (Left)'],5952a8d5dd376b81baaf5f9b784c1cd4
+336,['salmon_sn_rnaseq_10x'],HBM588.VDDL.553,['Lung (Left)'],5e47d518f078be2553080b88d8b33323
+337,['salmon_sn_rnaseq_10x'],HBM473.FZJS.484,['Large Intestine'],ff5d0d740fea8963e91f2e35c0a85596
+338,['salmon_sn_rnaseq_10x'],HBM999.KMVN.849,['Small Intestine'],148d6445ed0cda5cabae377829013b4c
+339,['salmon_rnaseq_snareseq'],HBM482.DKQF.747,['Lung (Right)'],8df15cb20f5e127d102a73d0ec5682a0
+340,['salmon_rnaseq_snareseq'],HBM675.BNXN.855,['Lung (Right)'],969b81f6dfbc0ed1fc21b00e2997d441
+341,['salmon_rnaseq_10x'],HBM954.WWJF.865,['Liver'],0e184744c4443f859984bbd3b7e95d24
+342,['salmon_rnaseq_snareseq'],HBM267.GLTT.762,['Lung (Right)'],85fa094cbdb29173e0a3463dce0790fc
+343,['salmon_sn_rnaseq_10x'],HBM247.BVLS.599,['Lung (Right)'],b340bb5715f967aa74d1b8eaeec0d475
+344,['salmon_rnaseq_snareseq'],HBM634.GHKQ.553,['Lung (Right)'],84db9a72aba9ae0ef740192ad8747ee3
+345,['salmon_rnaseq_snareseq'],HBM582.CXXZ.438,['Lung (Right)'],4369a119a9c06ea304003a5c3cb3a2e0
+346,['salmon_rnaseq_snareseq'],HBM456.GRCM.369,['Lung (Right)'],a39fed027b51d97f83cec90c63c44744
+347,['salmon_sn_rnaseq_10x'],HBM985.RCMM.733,['Small Intestine'],8a5592389339a77ce7697f516aa721fe
+348,['salmon_sn_rnaseq_10x'],HBM538.XQHP.544,['Large Intestine'],f3256b912f001d1b58877100b96e38a2
+349,['salmon_sn_rnaseq_10x'],HBM368.MPRF.249,['Small Intestine'],2a4bc7e02193ed50cc8d692db06f042d
+350,['salmon_rnaseq_sciseq'],HBM385.LQVK.975,['Heart'],17f67cb15e59f65e640d85d2f3866cde
+351,['salmon_rnaseq_10x'],HBM237.QHSL.933,['Knee (Right)'],ade8d4ca1fd95afbafdc78a2461bab9c
+352,['salmon_rnaseq_10x'],HBM767.CHDG.359,['Knee (Right)'],5318d00bccc1b48f96185e36546ea0b1
+353,['salmon_rnaseq_10x'],HBM837.KRCD.342,['Knee (Right)'],f2337adde76b4b57440116afdce5202a
+354,['salmon_sn_rnaseq_10x'],HBM735.LGHG.837,['Lung (Left)'],cd3cd77eec0fc514b236597aee14c508
+355,['salmon_sn_rnaseq_10x'],HBM524.TTGP.382,['Lung (Right)'],c7b84545e944c05c781540c3166f780f
+356,['salmon_rnaseq_10x'],HBM825.VPHH.585,['Knee (Right)'],365d954aadc27b928c1e92a838b952f8
+357,['salmon_sn_rnaseq_10x'],HBM637.HMGV.265,['Lung (Right)'],d6760d3e17a9a0d5126461af7ee63d0b
+358,['salmon_sn_rnaseq_10x'],HBM875.TXWJ.992,['Lung (Right)'],0119a79114328c9b2802771bed6611f5
+359,['salmon_sn_rnaseq_10x'],HBM773.FCBP.497,['Lung (Right)'],4e8e7086fb06489f040447e27f40dcf3
+360,['salmon_sn_rnaseq_10x'],HBM599.RSQF.492,['Lung (Right)'],b2e48b3c4cd58eb8abc2fcf0c2a79a98
+361,['salmon_sn_rnaseq_10x'],HBM985.FGTN.537,['Lung (Left)'],bb10cd1926335fb8fb20bfc041337681
+362,['salmon_sn_rnaseq_10x'],HBM968.TKLP.596,['Small Intestine'],a24771788dc2d572e267badeb701161d
+363,['salmon_sn_rnaseq_10x'],HBM693.SRHJ.546,['Small Intestine'],0910bfd40695181a73e5059909e46cda
+364,['salmon_sn_rnaseq_10x'],HBM652.TXVL.374,['Small Intestine'],69ede86e15f4c129ca8eff2bb9940b36
+365,['salmon_sn_rnaseq_10x'],HBM793.RPMP.954,['Large Intestine'],24f6fc63d7f0444d459de7f419701e86
+366,['salmon_sn_rnaseq_10x'],HBM632.WVCH.348,['Large Intestine'],b1a0bb5adb99161eb40f977358187c6d
+367,['salmon_sn_rnaseq_10x'],HBM485.HJXJ.776,['Lung (Left)'],a0bfd09a989530ba348d64499adf6a6b
+368,['salmon_sn_rnaseq_10x'],HBM459.BZWV.367,['Lung (Left)'],97effe14bbcac7911a136008c3a7f5cf
+369,['salmon_sn_rnaseq_10x'],HBM252.SDFT.698,['Lung (Right)'],281adda9fffc6214e76cbc3855a88cd9
+370,['salmon_sn_rnaseq_10x'],HBM598.XDNT.535,['Lung (Right)'],0219f5ba7743f0fc59d027eb23c5187d
+371,['salmon_sn_rnaseq_10x'],HBM657.JXDD.239,['Small Intestine'],3f3d9117172a7ebda1a57b2d871ce1be
+372,['salmon_sn_rnaseq_10x'],HBM874.GLHT.852,['Kidney (Left)'],7017034c816444f6acb469834e53344f
+373,['salmon_sn_rnaseq_10x'],HBM368.JCBG.263,['Kidney (Left)'],5039cf8619f6f8b5b4a14af1037e1d1f
+374,['salmon_sn_rnaseq_10x'],HBM839.ZFRD.789,['Large Intestine'],0a0eb095c8e7f7c890da20184d7527cb
+375,['salmon_sn_rnaseq_10x'],HBM255.NWHK.947,['Large Intestine'],ba3081716f3fa98a1670b0864c5115ff
+376,['salmon_sn_rnaseq_10x'],HBM692.MHPM.997,['Large Intestine'],87e85403e3f7a946fc40bdcf5cba8360
+377,['salmon_sn_rnaseq_10x'],HBM958.RMDR.582,['Small Intestine'],ced1599b71875ead46a41286ce67ba53
+378,['salmon_sn_rnaseq_10x'],HBM389.MDVM.457,['Large Intestine'],4a535055190943788c69d672ba1c8a71
+379,['salmon_rnaseq_10x'],HBM254.SJWB.835,['Liver'],4706e0339d507e7bd878458e2e9e7460
+380,['salmon_rnaseq_slideseq'],HBM883.PHQS.523,['Kidney (Left)'],aece0d5303d9ce959cdab34a9e9f3003
+381,['salmon_rnaseq_slideseq'],HBM333.XMCV.992,['Kidney (Left)'],2bd350c08997ecfec9c22f453cf4e6af
+382,['salmon_rnaseq_slideseq'],HBM222.VQSW.335,['Kidney (Left)'],634511b7c63c16cfb51dc867c65cfc91
+383,['salmon_sn_rnaseq_10x'],HBM879.SGNW.944,['Kidney (Right)'],59249f23ecdcc975c90de9a1956a5285
+384,['salmon_sn_rnaseq_10x'],HBM629.GSHG.922,['Kidney (Right)'],56cbda4789f04d79c0c3dffe21816d48
+385,['salmon_sn_rnaseq_10x'],HBM563.FFQJ.764,['Kidney (Left)'],6c4582697caa32064baebc97cade18ef
+386,['salmon_sn_rnaseq_10x'],HBM495.KSKJ.994,['Kidney (Left)'],0c4b78ba3e001f58bb973ac51783d10c
+387,['salmon_rnaseq_slideseq'],HBM462.QLBN.535,['Kidney (Right)'],b3d66a3ef05dcca3984087b155c6e915
+388,['salmon_rnaseq_slideseq'],HBM844.KXXX.692,['Kidney (Right)'],8adfc58a225049fb0884a8289d560534
+389,['salmon_rnaseq_slideseq'],HBM324.FKLK.233,['Kidney (Right)'],ae69348842e9e11be18cb3af99db834e
+390,['salmon_rnaseq_slideseq'],HBM835.DNQC.492,['Kidney (Right)'],892b7cae1138be0b8181cca95b901628
+391,['salmon_rnaseq_slideseq'],HBM634.JHVB.286,['Kidney (Right)'],f0d9d828d7d1e61289d72e52fafafafa
+392,['salmon_rnaseq_10x'],HBM482.JGJX.834,['Spleen'],f412e76986c1012ea9589d545ed8f043
+393,['salmon_rnaseq_10x'],HBM995.NPWL.939,['Spleen'],319aafd9420a0c1c6f175d6a2ef060a9
+394,['salmon_rnaseq_slideseq'],HBM378.GNLP.786,['Kidney (Right)'],ea4cfecb8495b36694d9a951510dc3c6
+395,['salmon_sn_rnaseq_10x'],HBM793.QCGM.999,['Kidney (Right)'],813af4ad3207830e0e7b2559413028bf
+396,['salmon_rnaseq_slideseq'],HBM246.KBZS.276,['Kidney (Right)'],bba1f664447f3bf1bccb0b6ebf2f61ad
+397,['salmon_rnaseq_slideseq'],HBM427.KFXP.323,['Kidney (Right)'],2ee93cd3a39b317d58d3f308281a943e
+398,['salmon_rnaseq_slideseq'],HBM766.NZWP.682,['Kidney (Right)'],d68e7b99290b6b7cca686b54955a2c22
+399,['salmon_rnaseq_slideseq'],HBM464.PXZP.496,['Kidney (Right)'],d88c483eea56204fd3282c5f62f31f0d
+400,['salmon_rnaseq_slideseq'],HBM242.HNLH.466,['Kidney (Right)'],d655e506e3e07f345c65c3cc90d045e2
+401,['salmon_rnaseq_slideseq'],HBM634.ZSHF.736,['Kidney (Right)'],8306f9bdef96312bd36c18b45bd8e141
+402,['salmon_sn_rnaseq_10x'],HBM987.ZCTQ.736,['Kidney (Right)'],6c8b810d8727dfc1dba7774a26d885a5
+403,['salmon_sn_rnaseq_10x'],HBM474.HCLS.566,['Kidney (Left)'],f0ba359ac01382540c1e5fe5d043e9f1
+404,['salmon_sn_rnaseq_10x'],HBM892.FKTS.663,['Kidney (Left)'],1ec50f4908899d7d766c6c6f39d7d27b
+405,['salmon_rnaseq_slideseq'],HBM847.MDSJ.826,['Kidney (Right)'],7c8c57d0d7f39d680f30587cc2c91c64
+406,['salmon_rnaseq_slideseq'],HBM464.QLTL.574,['Kidney (Left)'],b921c30d5077581c016d87d4f4c9ff19
+407,['salmon_rnaseq_slideseq'],HBM735.ZMBG.672,['Kidney (Left)'],81c50251d7f1aa85eeb6c03be44443a6
+408,['salmon_rnaseq_slideseq'],HBM547.SJSK.268,['Kidney (Left)'],6fdfde6f88e34294b3cd58e070ebcba2
+409,['salmon_rnaseq_slideseq'],HBM679.RLJH.432,['Kidney (Left)'],d1af36911148fdd7001fd4eebe7222f1
+410,['salmon_sn_rnaseq_10x'],HBM786.HSRC.868,['Kidney (Left)'],76b410b314b455d86dfa098c97b8acf6
+411,['salmon_rnaseq_slideseq'],HBM735.FSBZ.626,['Kidney (Left)'],0a21f3fa27109790483f2a0729be53de
+412,['salmon_rnaseq_slideseq'],HBM987.KWLK.254,['Kidney (Left)'],c1a0c043d0a986d71552091cc1b09742
+413,['salmon_sn_rnaseq_10x'],HBM843.QHNR.854,['Kidney (Left)'],c429e51920537c11fa91d1bc69085c1d
+414,['salmon_sn_rnaseq_10x'],HBM363.NTWP.766,['Kidney (Right)'],c81b0dc9d16eb825a7d6bce6e1b3678f
+415,['salmon_sn_rnaseq_10x'],HBM688.LGBS.644,['Kidney (Right)'],2f9777369594ff09a82bd51f6251ed83
+416,['salmon_sn_rnaseq_10x'],HBM699.XBTD.684,['Kidney (Left)'],62efbe0a6abd0bcf53ab9ab29e7cd73f
+417,['salmon_sn_rnaseq_10x'],HBM724.LVHJ.956,['Kidney (Right)'],d11c49c38ffba032b8a95e28a781f54b
+418,['salmon_sn_rnaseq_10x'],HBM928.THDD.545,['Kidney (Right)'],4b62d9d2c248323ce029859f953fdc57
+419,['salmon_sn_rnaseq_10x'],HBM264.MJCH.639,['Kidney (Right)'],0b6f63f2bd61a8c091fc7afc0f318ad1
+420,['salmon_sn_rnaseq_10x'],HBM825.XQCB.939,['Kidney (Right)'],b3803d913f08b07943417fa685419cdd
+421,['salmon_sn_rnaseq_10x'],HBM375.THCD.382,['Bladder'],494be3179855c071121a9307e0e84683
+422,['salmon_sn_rnaseq_10x'],HBM683.PNGX.923,['Bladder'],6c57274e7a40413dc042ec32442a228b
+423,['salmon_rnaseq_snareseq'],HBM886.GMKC.373,['Heart'],072b4d43162c40f48ee9ef3f341c7269
+424,['salmon_rnaseq_snareseq'],HBM635.VNBM.326,['Heart'],ab8ac261ad747e5400da49ed9b5db3ad
+425,['salmon_rnaseq_snareseq'],HBM533.QBXX.472,['Lung (Right)'],b8afc634e3e2b2a10f759596fa30101c
+426,['salmon_rnaseq_snareseq'],HBM253.ZBGF.863,['Kidney (Left)'],4b5dc6d04aa30a6eb0b224a7ab7d03b3
+427,['salmon_sn_rnaseq_10x'],HBM398.JQZB.348,['Kidney (Left)'],1197c73d127193dd493ff542890a3d3d
+428,['salmon_rnaseq_snareseq'],HBM539.GJNB.784,['Kidney (Right)'],d87b2121ee1a5777c29a69307f806328
+429,['salmon_rnaseq_snareseq'],HBM339.FPMK.994,['Kidney (Left)'],ac1d4544ab4886b851f74b2c21952378
+430,['salmon_rnaseq_snareseq'],HBM437.LCSH.956,['Kidney (Left)'],e7bdf34c4da9f1d880f2615226e9713d
+431,['salmon_rnaseq_snareseq'],HBM456.XDCK.572,['Kidney (Left)'],254801a318687281ba3e473569d89a45
+432,['salmon_sn_rnaseq_10x'],HBM674.FLVW.576,['Kidney (Right)'],52ec5e111357f8fdd4ab2a3c5790cf4e
+433,['salmon_sn_rnaseq_10x'],HBM936.MHTZ.834,['Kidney (Left)'],12de9dcdb62640f1687b832f69648a55
+434,['salmon_rnaseq_snareseq'],HBM976.MRWH.263,['Kidney (Left)'],044b28971204366347e7ed0b7ef0c279
+435,['salmon_rnaseq_snareseq'],HBM443.VNQV.892,['Kidney (Right)'],7479e6dbfa3b3a8e1e2d4f78cbe0f9e4
+436,['salmon_rnaseq_snareseq'],HBM528.DMSV.294,['Kidney (Right)'],149e1be22a4961f9c6240480710836a3
+437,['salmon_rnaseq_snareseq'],HBM334.DWWF.436,['Kidney (Right)'],615462a0e4aa133d8b19644c404e3eeb
+438,['salmon_sn_rnaseq_10x'],HBM844.HZPP.455,['Lung (Right)'],ae9d6066c8b680aa82e8da8a259fb429
+439,['salmon_sn_rnaseq_10x'],HBM967.GXVS.249,['Lung (Right)'],2a0db35326925681bfcd269de5a7e835
+440,['salmon_sn_rnaseq_10x'],HBM737.XJJK.835,['Lung (Left)'],93e233e001463fea35d8617c34da098c
+441,['salmon_sn_rnaseq_10x'],HBM787.DVCB.656,['Lung (Left)'],1c741950348e7e32df189a67c73360bb
+442,['salmon_sn_rnaseq_10x'],HBM225.KQHH.468,['Lung (Left)'],5f2a08b1c3ce5d7d880dd19b5eb9d04c
+443,['salmon_sn_rnaseq_10x'],HBM865.QLXW.297,['Lung (Left)'],48bdce10978fb6c94a513987ab657031
+444,['salmon_sn_rnaseq_10x'],HBM879.DQVQ.425,['Lung (Left)'],90842f728f8bf896fe5a86e902e00f4e
+445,['salmon_sn_rnaseq_10x'],HBM359.MDKK.796,['Lung (Right)'],d746afe85a0b4aa92b57fa8497e8f519
+446,['salmon_rnaseq_sciseq'],HBM599.WCGN.978,['Heart'],8b65acdfecc504e9a96c84643c3ab02c
+447,['salmon_sn_rnaseq_10x'],HBM957.TXXZ.387,['Heart'],33b9c54d7c295897826e1e5271d4fc24
+448,['salmon_sn_rnaseq_10x'],HBM776.NXCC.553,['Lung (Right)'],9b20142483d5714c66885b690c00af4f
+449,['salmon_sn_rnaseq_10x'],HBM524.KHPH.599,['Kidney (Left)'],7646a8a89555a123a56446b66c183d58
+450,['salmon_sn_rnaseq_10x'],HBM943.LMMD.654,['Large Intestine'],cd0ad2f9ed2f896e682ecacfbdac01ab
+451,['salmon_sn_rnaseq_10x'],HBM285.RPBV.676,['Small Intestine'],79bf632f74be9a08676131877d919127
+452,['salmon_sn_rnaseq_10x'],HBM962.KQLZ.422,['Large Intestine'],04968c1fe0149ee367b0e53af55763e4
+453,['salmon_sn_rnaseq_10x'],HBM947.NLPP.426,['Small Intestine'],27db7c3986c56c8ce03e71779e7ce698
+454,['salmon_sn_rnaseq_10x'],HBM895.RCSZ.274,['Large Intestine'],91822c7d75c54ce838bcd4d77f076b25
+455,['salmon_sn_rnaseq_10x'],HBM924.VZKC.957,['Small Intestine'],6751b407aa567865e4aa0bff3bd80a78
+456,['salmon_sn_rnaseq_10x'],HBM282.NSXR.732,['Lung (Right)'],ed630484e46ea49b319c0e1f92140059
+457,['salmon_rnaseq_snareseq'],HBM449.JXLG.799,['Lung (Right)'],d8ec264c4660ef7053764f71ae1789d0
+458,['salmon_rnaseq_snareseq'],HBM967.LPHM.957,['Lung (Right)'],ca35382d67c90d4d9bca1ee16526b1d3
+459,['salmon_sn_rnaseq_10x'],HBM963.KZKG.549,['Lung (Right)'],79f087ae551dd72997f174646bb0d5e0
+460,['salmon_rnaseq_snareseq'],HBM444.DXLZ.643,['Lung (Right)'],2dac500177620d78ca174c2c1d36a6c8
+461,['salmon_rnaseq_snareseq'],HBM975.WQQQ.853,['Lung (Right)'],176edb4b0e16059522f6f087576fbeec
+462,['salmon_rnaseq_snareseq'],HBM938.GBST.823,['Kidney (Left)'],949827f25f423d54663f09596351795d
+463,['salmon_rnaseq_snareseq'],HBM739.ZDLB.526,['Lung (Right)'],d171ff8d83f707ecca64ff159c7160a7
+464,['salmon_rnaseq_snareseq'],HBM832.WTNH.257,['Lung (Right)'],58167d0f778284d5b95af782bd8132da
+465,['salmon_sn_rnaseq_10x'],HBM592.RPKF.946,['Lung (Right)'],53fe8a84564b313d4e8ee90f337129dc
+466,['salmon_rnaseq_10x'],HBM636.CHVG.283,['Liver'],bcea4743ccb03d1c4f51c82b88a528d6
+467,['salmon_rnaseq_sciseq'],HBM726.SGLJ.852,['Heart'],de78115cc476af9422f916ddfbccbfb6
+468,['salmon_rnaseq_sciseq'],HBM943.DFKN.947,['Heart'],c6bb00096b0cf40751f9d6003fb730c7
+469,['salmon_rnaseq_sciseq'],HBM296.KZXD.676,['Heart'],2d0deacd8be70eefbdc33ac107d97e58
+470,['salmon_sn_rnaseq_10x'],HBM892.JLFV.844,['Kidney (Left)'],57054da2dbe87b93f1adb78444086963
+471,['salmon_sn_rnaseq_10x'],HBM844.RXXR.293,['Large Intestine'],061b6c8f8e76f9be125f0f93e7734642
+472,['salmon_sn_rnaseq_10x'],HBM256.CJVZ.757,['Small Intestine'],9458b342e7a9bad77887b60ca42b6a26
+473,['salmon_sn_rnaseq_10x'],HBM433.PPZJ.377,['Small Intestine'],5e2aaccdea5c209e217888f2c20ea64b
+474,['salmon_sn_rnaseq_10x'],HBM935.WLRT.589,['Large Intestine'],5d333ab22f05d83c6a5ba4848a50b058
+475,['salmon_sn_rnaseq_10x'],HBM388.BLRJ.658,['Large Intestine'],baf7cfd920bea2bbc0b6cd7d00ec1789
+476,['salmon_sn_rnaseq_10x'],HBM745.RQWF.695,['Large Intestine'],f2647d9533956fdb12da6b1fc6254441
+477,['salmon_sn_rnaseq_10x'],HBM536.FHLK.529,['Large Intestine'],2eca1430db3b9a4129bff717925fe932
+478,['salmon_sn_rnaseq_10x'],HBM628.LKGZ.865,['Small Intestine'],6f289cf6ba3614682e8d5f6c8e93ebb1
+479,['salmon_sn_rnaseq_10x'],HBM364.SJBR.333,['Large Intestine'],4e9a64e657cca28ad36bd2c62693b6e0
+480,['salmon_sn_rnaseq_10x'],HBM438.GNCV.896,['Lung (Right)'],4c43019216361c99ef2d9c4a1d9b8c6b
+481,['salmon_sn_rnaseq_10x'],HBM374.PCQG.742,['Small Intestine'],0b528e5d674fadada32215c364f6fcaa
+482,['salmon_rnaseq_10x'],HBM852.CQCN.957,['Knee (Left)'],962958f8dab23bd26c93ceb062abb4ef
+483,['salmon_sn_rnaseq_10x'],HBM588.WZRN.633,['Lung (Left)'],8e203b38828bf9171b6026e14e6e3973
+484,['salmon_sn_rnaseq_10x'],HBM396.MZGH.625,['Lung (Left)'],0b1017f6a9d71c4e75125e7144b62795
+485,['salmon_sn_rnaseq_10x'],HBM378.GFTQ.237,['Lung (Left)'],dc005f938f6a87d57d4150bcd5a12c92
+486,['salmon_sn_rnaseq_10x'],HBM295.RNLK.468,['Lung (Right)'],643d4afbd87752a89d7643faed261aba
+487,['salmon_sn_rnaseq_10x'],HBM499.LKRN.573,['Lung (Right)'],ec7cffb518a4a21025dc213ee1a27ff0
+488,['salmon_sn_rnaseq_10x'],HBM973.QSHL.593,['Lung (Right)'],020117a381ac84a941c974b939ea3115
+489,['salmon_sn_rnaseq_10x'],HBM422.QWBK.454,['Lung (Right)'],6204c98529c482e1bb3816559775dc54
+490,['salmon_sn_rnaseq_10x'],HBM859.PCRV.548,['Lung (Right)'],f4f6e6614dd5645a37eae9dee1d6bbef
+491,['salmon_sn_rnaseq_10x'],HBM683.HTPN.257,['Lung (Right)'],7b4d9ca7452ea1303ecca268db1fccba
+492,['salmon_rnaseq_10x'],HBM243.NBKL.825,['Spleen'],d48b7990d638dbede870ae9c1976e475
+493,['salmon_rnaseq_10x'],HBM795.TFHS.265,['Spleen'],046251c94ea0e79ee935dd3de57e093c
+494,['salmon_rnaseq_10x'],HBM369.HJNP.464,['Lymph Node'],bdfebbfbbaa33bf1d2a5ae4c31cde1de
+495,['salmon_rnaseq_slideseq'],HBM774.TGWX.478,['Kidney (Left)'],ad312fba7d484a57f4a9b0d05977b521
+496,['salmon_rnaseq_slideseq'],HBM347.LCMZ.227,['Kidney (Left)'],9543f0b5e921d865e57a9fe3e4e62f4e
+497,['salmon_rnaseq_slideseq'],HBM526.WCCD.472,['Kidney (Left)'],2107df00633f703d39e1ec74c271a9e5
+498,['salmon_sn_rnaseq_10x'],HBM979.VMDC.365,['Kidney (Left)'],e5f7a14d93659bd0b8dc2819ffa9bc4b
+499,['salmon_rnaseq_slideseq'],HBM628.XTDP.423,['Kidney (Left)'],dc535e26fd17b8286a57d6dcd734c648
+500,['salmon_sn_rnaseq_10x'],HBM322.XJQZ.894,['Kidney (Left)'],42ab155ddff1d33fe1c505c067828614
+501,['salmon_sn_rnaseq_10x'],HBM437.SXMQ.739,['Kidney (Left)'],8251c86364659887c1508def8f8cef05
+502,['salmon_sn_rnaseq_10x'],HBM826.VZFT.824,['Kidney (Left)'],7b15d0833426852e59a08f6c6a75f4d8
+503,['salmon_sn_rnaseq_10x'],HBM892.HQDK.764,['Kidney (Left)'],fc5560162deab57641085cdf8bcdfe87
+504,['salmon_sn_rnaseq_10x'],HBM937.TWRN.355,['Kidney (Left)'],f220c9e7bcaea3a87162cbe61287ea4d
+505,['salmon_sn_rnaseq_10x'],HBM244.FRPJ.636,['Kidney (Left)'],6b19b8025b7928aa2eb3c43c00955b93
+506,['salmon_sn_rnaseq_10x'],HBM942.XLHP.469,['Heart'],61f4223d67ed09c9b167ebeae12c1532
+507,['salmon_sn_rnaseq_10x'],HBM656.TJNG.945,['Heart'],6f98ad7345f59e9a0a60b6f706b373bb
+508,['salmon_rnaseq_snareseq'],HBM995.DKLK.354,['Heart'],a87e453b4a46f684c54f4fe5299024d3
+509,['salmon_rnaseq_slideseq'],HBM462.XQCR.933,['Kidney (Left)'],6cd657565c709c832300336899a1e1ec
+510,['salmon_sn_rnaseq_10x'],HBM272.FWMV.423,['Kidney (Left)'],8b205b7d32b404e39106405cfc0beaad
+511,['salmon_sn_rnaseq_10x'],HBM759.CHJW.244,['Kidney (Right)'],b99fc30c4195958fbef217fa9ed9ec8f
+512,['salmon_rnaseq_slideseq'],HBM243.MTZV.726,['Kidney (Right)'],5137facf6f24b87d325b886ec8e5fb1f
+513,['salmon_sn_rnaseq_10x'],HBM444.PWKX.639,['Kidney (Left)'],8cdb42ed1194255c74c8462b99bbd7ef
+514,['salmon_rnaseq_slideseq'],HBM456.CGDP.395,['Kidney (Left)'],32b783576b6c88fec03f5e5988e3effa
+515,['salmon_rnaseq_slideseq'],HBM875.FRMB.667,['Kidney (Left)'],7ed80889944d7b0276e84f179090d622
+516,['salmon_rnaseq_slideseq'],HBM775.CMGG.464,['Kidney (Left)'],c6c0cca1d093fcdb8d72bd18053a7940
+517,['salmon_rnaseq_slideseq'],HBM876.HTRX.668,['Kidney (Right)'],aa97a7c3e11e210bfa1629ee467bdcf6
+518,['salmon_rnaseq_slideseq'],HBM537.GVTL.683,['Kidney (Right)'],17fb6d5db17936acc8fb613ce98ab808
+519,['salmon_rnaseq_slideseq'],HBM996.XSNK.694,['Kidney (Right)'],10b22d398b548c141167d4d9c4cbd79e
+520,['salmon_sn_rnaseq_10x'],HBM837.HQNL.776,['Kidney (Right)'],611d301d6755508efd91a6d924d7c400
+521,['salmon_sn_rnaseq_10x'],HBM324.XBMF.465,['Kidney (Left)'],fe0ded5fc0355c95239f9c040dd31e99
+522,['salmon_rnaseq_slideseq'],HBM393.DZDZ.972,['Kidney (Right)'],15882fef75843d5cef518853a0e8246d
+523,['salmon_rnaseq_slideseq'],HBM332.KQWB.454,['Kidney (Right)'],e3d2be85088ae5073758e6609167407a
+524,['salmon_sn_rnaseq_10x'],HBM884.TGCL.432,['Kidney (Left)'],aeb2f6902721eb8c7d44c1c3669c640c
+525,['salmon_sn_rnaseq_10x'],HBM987.RLTF.378,['Kidney (Left)'],86ad3859bb98f5d35e5f2ce553e64164
+526,['salmon_rnaseq_slideseq'],HBM532.KKRC.477,['Kidney (Right)'],fcd7a8d45be34fdccb8fa400ea81a331
+527,['salmon_sn_rnaseq_10x'],HBM577.ZNLL.525,['Bladder'],cae2beaf3926759549dbf4128d6b5ebd
+528,['salmon_sn_rnaseq_10x'],HBM455.HBZX.789,['Bladder'],3ff97368165004ae9e3b799cef261a2a
+529,['salmon_sn_rnaseq_10x'],HBM297.TTGF.282,['Kidney (Right)'],dd9c7ba448d249b4d8d99e444c592c54
+530,['salmon_sn_rnaseq_10x'],HBM299.VDWT.444,['Kidney (Right)'],367fee3b40cba682063289505b922be1
+531,['salmon_sn_rnaseq_10x'],HBM546.FWVF.348,['Kidney (Left)'],9f415d53db0f3452bb642ad2d229eff0
+532,['salmon_sn_rnaseq_10x'],HBM628.QKGB.497,['Kidney (Left)'],b05c21f9c94ce1a22a9694cd0fe0291e
+533,['salmon_rnaseq_slideseq'],HBM647.QDBG.936,['Kidney (Right)'],c7beda8afe491243d634e3fd0531489b
+534,['salmon_rnaseq_slideseq'],HBM736.MNMD.453,['Kidney (Right)'],674116f3bb6c85dc933ea4ce6ffab05f
+535,['salmon_rnaseq_slideseq'],HBM958.GZCX.985,['Kidney (Right)'],28d7789ef980031fb7278646fe43ffe1
+536,['salmon_rnaseq_slideseq'],HBM525.LRPL.332,['Kidney (Right)'],4734034ae3026f586bab5269085ba0e6
+537,['salmon_rnaseq_slideseq'],HBM447.KCHB.778,['Kidney (Right)'],911380980cd33eac5add7f72d86de146
+538,['salmon_rnaseq_slideseq'],HBM888.KGWD.659,['Kidney (Right)'],cad9fd8d9dded93c39e694f851b85b97
+539,['salmon_rnaseq_slideseq'],HBM252.JLSW.848,['Kidney (Right)'],f4b3c0e24e09e1e8c16f2e4e190a8cbb
+540,['salmon_rnaseq_slideseq'],HBM347.MRTV.333,['Kidney (Right)'],69e35548d14ef026c46ddbab31f761da
+541,['salmon_sn_rnaseq_10x'],HBM247.HLXR.494,['Kidney (Left)'],898138b7f45a67c574e9955fb400e9be
+542,['salmon_rnaseq_snareseq'],HBM694.VDGX.527,['Lung (Left)'],426940c89892024677d5d26bfbf157a0
