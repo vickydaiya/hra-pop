@@ -3,8 +3,6 @@ from textwrap import indent
 import requests
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
-from tqdm import tqdm
-import json
 import pandas as pd
 from ast import literal_eval
 
@@ -40,14 +38,12 @@ for collection in collections:
     r1 = https.get(COLLECTIONS + collection['id'], timeout=5)
     r1.raise_for_status()
     collection_collection = r1.json()
-    #remove = set(collection_collection) - keep_collection
-    #for key in remove: del collection_collection[key]
     all_collections.append(collection_collection)
 
 
 unique_dataset_links = {}
 
-for collection in tqdm(all_collections, desc='Extracting links from the collection metadata'):
+for collection in all_collections:
     print(f"Collection : {collection['name']}")
     primary_cell_count = 0
     secondary_cell_count = 0
@@ -68,8 +64,7 @@ for collection in tqdm(all_collections, desc='Extracting links from the collecti
                                 'is_primary_data'   : dataset['is_primary_data'],
                                 'collection_id'     : dataset['collection_id'],
                                 'donor_id'          : dataset['donor_id'],
-                                'tissue'            : [tissue_dict['label'] for tissue_dict in dataset['tissue']],
-                                'data_link'         : DATASETS + dataset['id'] + "/asset/" + asset['id']
+                                'tissue'            : [tissue_dict['label'] for tissue_dict in dataset['tissue']]
                             }
 
                         elif dataset['is_primary_data'] == 'SECONDARY':
@@ -79,32 +74,22 @@ for collection in tqdm(all_collections, desc='Extracting links from the collecti
                                 'is_primary_data'   : dataset['is_primary_data'],
                                 'collection_id'     : dataset['collection_id'],
                                 'donor_id'          : dataset['donor_id'],
-                                'tissue'            : [tissue_dict['label'] for tissue_dict in dataset['tissue']],
-                                'data_link'         : DATASETS + dataset['id'] + "/asset/" + asset['id']
+                                'tissue'            : [tissue_dict['label'] for tissue_dict in dataset['tissue']]
                             }
                         else:
                             extra_cell_count += dataset['cell_count']
 
-                print(f"\tDataset : {dataset['is_primary_data']} : {dataset['id']} : {dataset['name']} ")
-    print(f"\n\tPRIMARY CELL COUNT : {primary_cell_count} \t SECONDARY CELL COUNT : {secondary_cell_count} \t EXTRA CELL COUNT : {extra_cell_count}")
-    
-
     # Condition 1 : CELL COUNTS : Primary > Secondary:
     if (primary_cell_count > secondary_cell_count) and (primary_cell_count > 0):
         unique_dataset_links = {**unique_dataset_links, **primary_dataset_links}
-        print('\tAdded PRIMARY DATASET LINKS : ', json.dumps(primary_dataset_links, indent=4))
 
     # Condition 2 : CELL COUNTS : Primary < Secondary:
     elif (primary_cell_count < secondary_cell_count) and (secondary_cell_count > 0):
         unique_dataset_links = {**unique_dataset_links, **secondary_dataset_links}
-        print('\tAdded SECONDARY DATASET LINKS : ',json.dumps(secondary_dataset_links, indent=4))
-
-    # Condition 3 : CELL COUNTS : Both Zero (Non Human Collection. - Skip.)
-    else:
-        print('\tNO LINKS ADDED.')
-    print("\n")
 
 data = pd.DataFrame(unique_dataset_links).transpose()
 data['tissue'] = data['tissue'].apply(lambda x: literal_eval(str(x)))
 data['donor_id'] = data['donor_id'].apply(lambda x: literal_eval(str(x)))
-data.explode('donor_id').explode('tissue').to_csv('cellxgene.csv')
+data = data.explode('donor_id').explode('tissue')
+data['unique_dataset_id'] = data.apply(lambda row: COLLECTIONS + row['collection_id'] + '#' + '$'.join([row.name,row['donor_id'],row['tissue'].replace(' ','%20')]),axis=1)
+data.to_csv('cellxgene.csv')
