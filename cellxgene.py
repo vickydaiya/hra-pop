@@ -44,7 +44,6 @@ for collection in collections:
 unique_dataset_links = {}
 
 for collection in all_collections:
-    print(f"Collection : {collection['name']}")
     primary_cell_count = 0
     secondary_cell_count = 0
     extra_cell_count = 0
